@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Snegir
+  m_EditorClassIdentifier: 
+  _fruktColor: []
+  _sprites:
+  - {fileID: -4994542259516651576, guid: cc3a13c4a2fc14b4f848be0471ce3d38, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: 60048bd44c744a04c86d5a7f7ac49a26, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: f118814d873e99045a19a6cfc5f77e75, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: b50f253e1d5d53144a3d8b9e53e4e82c, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: 2f6c38f2dcd3f4f4d9118b2a20258750, type: 3}
+  _partAudio: {fileID: 0}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: snegr
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: -4410156912561198246, guid: 109bb50e709330240a61edf5d10bce58, type: 3}
+  _partSprite: {fileID: 0}
+  _colorSprite: {fileID: 0}

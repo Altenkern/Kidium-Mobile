@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: apelsin
+  m_EditorClassIdentifier: 
+  _fruktColor:
+  - {fileID: 11400000, guid: 60b15ca2478284e4dbfb2260295e2a0a, type: 2}
+  _sprites:
+  - {fileID: -4071845553055428626, guid: 64c587a847fa090418584ea15e75adcc, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: e7f4ae13cfbc3eb4f954de6421540bef, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: e7f4ae13cfbc3eb4f954de6421540bef, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: 8c462f52b4bdf1142b71bbd7739cc3d5, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: 8c462f52b4bdf1142b71bbd7739cc3d5, type: 3}
+  _partAudio: {fileID: 0}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: "\u0410\u043F\u0435\u043B\u044C\u0441\u0438\u043D"
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: 0}
+  _partSprite: {fileID: 0}
+  _colorSprite: {fileID: 21300000, guid: 17fd40f95a6373a43913d6691051972c, type: 3}

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78e9b2c1f47eecc44a0b49698dc618e1, type: 3}
+  m_Name: ColorFruCommand
+  m_EditorClassIdentifier: 
+  idOfExecution: 3
+  _doKeepObjectsEveryRound: 1
+  _isBonnyAudio: 1
+  _isPart: 0
+  _isColor: 1
+  _doRemoveWolf: 0
+  _isSea: 0
+  vegetables:
+  - {fileID: 11400000, guid: ee5f579d0fe67f24a9ae7fa61cb633e4, type: 2}
+  - {fileID: 11400000, guid: dc0782852e1fc7e4f8ac618c784a1185, type: 2}
+  - {fileID: 11400000, guid: 4b1491da0539568438c6c2162e8d6857, type: 2}
+  - {fileID: 11400000, guid: cb74e6eaf93d93f4fbce168ad88c32bb, type: 2}
+  - {fileID: 11400000, guid: 56f147063464e2f4aa0d181995e9a71b, type: 2}
+  llBut: {fileID: 0}
+  lBut: {fileID: 0}
+  midBut: {fileID: 0}
+  rBut: {fileID: 0}
+  rrBut: {fileID: 0}
+  AAFKphrases:
+  - {fileID: 8300000, guid: 40ac0cd607070a743b47696c8d3a97cb, type: 3}
+  - {fileID: 8300000, guid: ff7ca593ed156aa4689c38aebd0ddb4a, type: 3}
+  - {fileID: 8300000, guid: a3f0e72a4ab469a4cb9978d28ecbcdeb, type: 3}
+  - {fileID: 8300000, guid: d9dc9c8fce174294b8c3a5b6c98c356e, type: 3}
+  - {fileID: 8300000, guid: a02c3ff1dabbc9e4aa47c3a947879538, type: 3}
+  - {fileID: 8300000, guid: 2fd299217f71cd64badded2d08071385, type: 3}
+  - {fileID: 8300000, guid: c84b91acc006e7943be50b99c970046b, type: 3}
+  - {fileID: 8300000, guid: 6d8eb486ee24fc140a43adbfc83a1750, type: 3}
+  ArightPhrases:
+  - {fileID: 8300000, guid: e447318cb8005d548a73e20375e5da3b, type: 3}
+  - {fileID: 8300000, guid: ff317403682d22c40b2a9aa4cd895247, type: 3}
+  - {fileID: 8300000, guid: a4775a56ad3584e408dcec899edc843f, type: 3}
+  - {fileID: 8300000, guid: cc3a9cc3b4890ea47b60b2211facc7ca, type: 3}
+  - {fileID: 8300000, guid: 831ddc8dd0591ac4f92e06bdea75b6d0, type: 3}
+  BAFKphrases:
+  - {fileID: 8300000, guid: b94138ceee9fb834981dd67d8384e64e, type: 3}
+  - {fileID: 8300000, guid: fbc82004740f5e946889fc780c95254b, type: 3}
+  - {fileID: 8300000, guid: 0a3c8555c86b1d8479ce5273e6563e39, type: 3}
+  - {fileID: 8300000, guid: 9b6098a3ba0dafe4b9826469054f1550, type: 3}
+  BrightPhrases:
+  - {fileID: 8300000, guid: dafe31e634d4c104eb97ce35b1107e6f, type: 3}
+  - {fileID: 8300000, guid: 97fc97e36f571d643a04eb797704e7d5, type: 3}
+  - {fileID: 8300000, guid: 97758a5e1a2f9f34e85803f550f468ab, type: 3}
+  - {fileID: 8300000, guid: e344f8979cc5f8b4d97f347ba9272a0f, type: 3}
+  AEto: {fileID: 8300000, guid: df2f938ddf1f4704e89faa5db4354460, type: 3}
+  ANaidi: {fileID: 8300000, guid: 012fb660276fd5545b718fb3750cf970, type: 3}
+  ApokajiPlzGde: {fileID: 8300000, guid: 6a41844632c22bc44ace505906d730c2, type: 3}
+  ANajmiPalchikomNa: {fileID: 8300000, guid: a55f24613392f1742bf4183673368e97, type: 3}
+  AASeychasPokajiGde: {fileID: 8300000, guid: a0c1533d4b75753429e02031b8eb329e, type: 3}
+  posmotriVnimatelno: {fileID: 8300000, guid: f38db11d1c23bb143858567e2048b298, type: 3}
+  BEto: {fileID: 8300000, guid: b36f84d1dbd1df743b4b49810e4cbe04, type: 3}
+  BNaidi: {fileID: 8300000, guid: fe4c618990cb9594bac46fdb0bfc919f, type: 3}
+  BpokajiPlzGde: {fileID: 8300000, guid: 7538ede57bd56f8489f8bb46e1fd9aad, type: 3}
+  BNajmiPalchikomNa: {fileID: 8300000, guid: 4e96802bdccddbf4ca7ac8c6639563ed, type: 3}
+  BASeychasPokajiGde: {fileID: 8300000, guid: 40e6aa77c04f0394cb6930836dfe1df2, type: 3}
+  ihTakMnogo: {fileID: 0}
+  ktoFontan: {fileID: 0}
+  chiaeto: {fileID: 0}
+  uKogoTakaya: {fileID: 0}

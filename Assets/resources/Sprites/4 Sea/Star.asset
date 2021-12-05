@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Star
+  m_EditorClassIdentifier: 
+  _fruktColor: []
+  _sprites:
+  - {fileID: -4342398307153524174, guid: e9718e43f34749c4d9e377469a442f84, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: eb49f4ac240a08643bdfed79db331d4e, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: 31a419ee96dc836469ae5c0ff410a2f9, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: c84052ff8d040b349a1daee8959dacd4, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: df588000081323c4e882ed015eedc507, type: 3}
+  _partAudio: {fileID: 8300000, guid: 4a08d46dead0cc94da27e195ba25f7c1, type: 3}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: Star
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: -2839900001043702519, guid: f5576744d086b9a4088cd865ba1db8a7, type: 3}
+  _partSprite: {fileID: -6410319765241231398, guid: b9e1d7801718dfb4ab3eaaf3adf19718, type: 3}
+  _colorSprite: {fileID: 0}

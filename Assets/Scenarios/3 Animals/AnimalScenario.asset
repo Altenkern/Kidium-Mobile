@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d751c48d1cffe25409889ec238c4e911, type: 3}
+  m_Name: AnimalScenario
+  m_EditorClassIdentifier: 
+  _commands:
+  - {fileID: 11400000, guid: f670108f8bdee93429b5b7b22bfefa2b, type: 2}
+  - {fileID: 11400000, guid: cd242052432f59541b9e0322d74e34b8, type: 2}
+  - {fileID: 11400000, guid: eeb9c0894f7bf4f47bdd1b9a0b87b478, type: 2}
+  - {fileID: 11400000, guid: c693ed3042dbe304992a7c47d5a0b930, type: 2}
+  - {fileID: 11400000, guid: 178c48c7cbb17864286dcdb34ddb74dc, type: 2}
+  - {fileID: 11400000, guid: 257916cdc2be4f440ac4050bc6f03be0, type: 2}
+  - {fileID: 11400000, guid: d37d9eac11a07c844a4e447ba4d634a1, type: 2}
+  - {fileID: 11400000, guid: 8242f55f9411f3742b3dab199e449b80, type: 2}
+  - {fileID: 11400000, guid: 0cbb92dc4490b24499a34d85926b3abd, type: 2}
+  - {fileID: 11400000, guid: 4d912bfb8c0c857438c55815f8a0bab4, type: 2}
+  _currentCommand: 1
+  maxIdOfCommand: 5

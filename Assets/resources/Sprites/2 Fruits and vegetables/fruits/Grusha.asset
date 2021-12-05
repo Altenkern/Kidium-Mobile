@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Grusha
+  m_EditorClassIdentifier: 
+  _fruktColor:
+  - {fileID: 11400000, guid: bf8530510e83b8a449a3b5391383e2ea, type: 2}
+  _sprites:
+  - {fileID: 8075499306339496869, guid: fb25d7519e0f09848882073f9dc1e8a7, type: 3}
+  _isFemineRod: 1
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: 241a972aa6200844db23a0e1857b7883, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: b54982e1b0eff334b91648917256a212, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: b701bb4d1bb71054f9f18200c79e3022, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: 227c3ebce73aeb14c901e09b4c66b485, type: 3}
+  _partAudio: {fileID: 0}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: "\u0413\u0440\u0443\u0448\u0430"
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: 0}
+  _partSprite: {fileID: 0}
+  _colorSprite: {fileID: 21300000, guid: 578bc39cf1af5ce48809cbc427c10062, type: 3}

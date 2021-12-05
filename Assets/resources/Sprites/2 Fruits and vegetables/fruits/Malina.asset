@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Malina
+  m_EditorClassIdentifier: 
+  _fruktColor:
+  - {fileID: 11400000, guid: 9b92b03e34271a740899a44657fff83f, type: 2}
+  _sprites:
+  - {fileID: -3572526812089479968, guid: 55b50886c027c85448c06a7100f5233d, type: 3}
+  _isFemineRod: 1
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: f5921c0ba6877284ba7804c440b8c48a, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: c5a938f3f3fe0534297b0a5a53d86b1f, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: 8db1eea1b7d80b44cbee044aa38f9992, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: 1a6b7cd082c41b74c9678d8fb71fdd02, type: 3}
+  _partAudio: {fileID: 0}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: "\u041C\u0430\u043B\u0438\u043D\u0430"
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: 0}
+  _partSprite: {fileID: 0}
+  _colorSprite: {fileID: 21300000, guid: cae7affec5795d349a1503ad4711709c, type: 3}

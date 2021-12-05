@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Octopus
+  m_EditorClassIdentifier: 
+  _fruktColor: []
+  _sprites:
+  - {fileID: -2871439015007964023, guid: 07889d41ece87154689d9c20f3b79993, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: ecf532a3f3c2b2349b91a34c4b24a63b, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: cefc0a2b96c4b154e926208a15463838, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: a07f69c4c4d542d409dc14baaa6563cc, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: 103ee6589e138964991b0122f2807d3d, type: 3}
+  _partAudio: {fileID: 8300000, guid: d4806cb258a7a5746bf7755f0e21b7eb, type: 3}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: Octopus
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: 3083141442813475083, guid: 3b8dad8c24d15924c933acdd2963228e, type: 3}
+  _partSprite: {fileID: 1156090680000540362, guid: db81242fd9a77394bb458b65e1d854c9, type: 3}
+  _colorSprite: {fileID: 0}

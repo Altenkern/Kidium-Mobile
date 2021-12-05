@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Turtle
+  m_EditorClassIdentifier: 
+  _fruktColor: []
+  _sprites:
+  - {fileID: -6323821247466838079, guid: 3c862cca287682c40962dadff955ad50, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: d9a4e71241ec58d4c8da1fb24b46e2f3, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: 122d602c142a39f4fa5860bbe7773295, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: d0bd8f4585513e348b048c0af59d3bbd, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: ff054e7a21035ac47bbfe2d2933643f6, type: 3}
+  _partAudio: {fileID: 8300000, guid: ff68c405e0dfaec4bb44c87846e31af7, type: 3}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: Turtle
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: 7833401731159328213, guid: 5abec6991ac56f848b317f30a4676176, type: 3}
+  _partSprite: {fileID: -6357568220325106346, guid: ed398ee255e60b7469b9933d7a164772, type: 3}
+  _colorSprite: {fileID: 0}

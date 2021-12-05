@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Green
+  m_EditorClassIdentifier: 
+  _fruktColor: []
+  _sprites: []
+  _isFemineRod: 0
+  _fruktType: 1
+  _bonyImenPadezj: {fileID: 8300000, guid: 88ffc3fcd83867a4bb2bf480b02728b5, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: 9b75748be3ea6174496407b09b4f5218, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: b3c2f8fe259c2464ebcfd1ea220a543b, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: e048326dd2590ca42ad05637810c6a5c, type: 3}
+  _partAudio: {fileID: 0}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: "\u0417\u0435\u043B\u0451\u043D\u044B\u0439"
+  _color: {r: 0, g: 0.94509804, b: 0.05490196, a: 1}
+  _shadow: {fileID: 0}
+  _partSprite: {fileID: 0}
+  _colorSprite: {fileID: 21300000, guid: 578bc39cf1af5ce48809cbc427c10062, type: 3}

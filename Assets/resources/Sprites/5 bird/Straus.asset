@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Straus
+  m_EditorClassIdentifier: 
+  _fruktColor: []
+  _sprites:
+  - {fileID: 3200053156724940397, guid: 3b69c611767483942a205e093717c074, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: c5583ba28ef087e47b772aacef6ee4c8, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: 4b2e589f780d5bb49ad78e8c218a4e98, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: 0b2f15bd029a5b240bb09e309dacf0c2, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: a5eeeedb5cc275d439e8805a657bc3ac, type: 3}
+  _partAudio: {fileID: 8300000, guid: 1feea5cfb25a3b64ca2271f3e964ff3b, type: 3}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: straus
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: 500680503398850122, guid: 2aa72b77b83eb3346ab78e82c03a7669, type: 3}
+  _partSprite: {fileID: 6556169595240900620, guid: 654caed1fd3bf4b409b3f8cec3c3a9fe, type: 3}
+  _colorSprite: {fileID: 0}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Jeeraf
+  m_EditorClassIdentifier: 
+  _fruktColor: []
+  _sprites:
+  - {fileID: 4327674022272145938, guid: 130ef3d8dc4c64b4eb405251db3c36bb, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: 4ba2af0feb9b6344cbc04f3d436a2de4, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: 9cdafba644dd71e4d9b51e7444bcd3de, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: 153b47da621b09a4584f9ce0967fd622, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: c6ebc66774d16834a96ccdd112f93535, type: 3}
+  _partAudio: {fileID: 8300000, guid: c53541a1209e80c4fa00453f9769b68f, type: 3}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 8300000, guid: 491555696a519cb4dbbfe646f5f50c8e, type: 3}
+  _colorAudio: {fileID: 0}
+  _name: Jeeraf
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: 0}
+  _partSprite: {fileID: -788159547075699422, guid: ad95ec0ee0325d24cbbb2f7119b28b6a, type: 3}
+  _colorSprite: {fileID: 0}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Pig
+  m_EditorClassIdentifier: 
+  _fruktColor: []
+  _sprites:
+  - {fileID: -2073651331600596935, guid: 1444cd361be7c9e4ba91ddc81365bd8a, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: cf464942c3bce784a8f81f8b5955d0f9, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: 075906706389c2440af90b2e8154ea0d, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: 191371ed5ea653840b858e1f05b3a00d, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: c6b7fe3a4275e5e4c8ba6f1c0b233926, type: 3}
+  _partAudio: {fileID: 8300000, guid: 6683f3e38c3f75f4cb1decdd6d8b67ed, type: 3}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 8300000, guid: 0b99a8478f851124e80c7080bb0e0fe5, type: 3}
+  _colorAudio: {fileID: 0}
+  _name: Pig
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: 0}
+  _partSprite: {fileID: 8596831441520711070, guid: e6907d7bc1b07f04dbdf22bc02f906fe, type: 3}
+  _colorSprite: {fileID: 0}

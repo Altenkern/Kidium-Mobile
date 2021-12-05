@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Wolf
+  m_EditorClassIdentifier: 
+  _fruktColor: []
+  _sprites:
+  - {fileID: 2584198106316753797, guid: 5fc240a88a3f45843ae841a3aa29924b, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: a4254d35996baa64d8ef8665daf6a388, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: b46252857c6097547a5a6e5870cb99e3, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: 4b487ff97e4d7ba4c88379a79e9f2050, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: 2f213fd31ac2ef34db47311a2a6c2780, type: 3}
+  _partAudio: {fileID: 0}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 8300000, guid: 65e3919cb8484dd47959f4a82aaf470e, type: 3}
+  _colorAudio: {fileID: 8300000, guid: 4287be4408606c64d8114026745891cf, type: 3}
+  _name: wolf
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: 0}
+  _partSprite: {fileID: 0}
+  _colorSprite: {fileID: 7706410697536591376, guid: 8b303d8d7036753439f166879bf6a432, type: 3}

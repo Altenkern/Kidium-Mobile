@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: kartoshkaObj
+  m_EditorClassIdentifier: 
+  _fruktColor:
+  - {fileID: 11400000, guid: 60b15ca2478284e4dbfb2260295e2a0a, type: 2}
+  - {fileID: 11400000, guid: 60b15ca2478284e4dbfb2260295e2a0a, type: 2}
+  _sprites:
+  - {fileID: 4884615038728472645, guid: 96a68b144b6f6ca49ae21897c63ad7c4, type: 3}
+  - {fileID: -4601551124649652675, guid: 96a68b144b6f6ca49ae21897c63ad7c4, type: 3}
+  _isFemineRod: 1
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: b56dc498160f0d843860e9e65f1e3cfa, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: e6537547ced80ab49abe381694b83080, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: 64fe8f81d510bc545a1060da2747feac, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: 50c0d08d7a431cb4b9880b820a687f2c, type: 3}
+  _partAudio: {fileID: 0}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: "\u041A\u0430\u0440\u0442\u043E\u0448\u043A\u0430"
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: 0}
+  _partSprite: {fileID: 0}
+  _colorSprite: {fileID: 21300000, guid: 17fd40f95a6373a43913d6691051972c, type: 3}

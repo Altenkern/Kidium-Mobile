@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d751c48d1cffe25409889ec238c4e911, type: 3}
+  m_Name: SeaScenario
+  m_EditorClassIdentifier: 
+  _commands:
+  - {fileID: 11400000, guid: 8b4ed0896f4cddc48ac807246680ec9e, type: 2}
+  - {fileID: 11400000, guid: 324be09de37348847af156c2ad692570, type: 2}
+  - {fileID: 11400000, guid: 727bd9497cac1ff4aa28b65c69a6dd12, type: 2}
+  - {fileID: 11400000, guid: c7a06433c96877f408e623ddfc708245, type: 2}
+  - {fileID: 11400000, guid: cb7abfeeba0075b48bb8f73de399d685, type: 2}
+  - {fileID: 11400000, guid: a8b7b8bb0ead9be42a33b0ab3c557310, type: 2}
+  - {fileID: 11400000, guid: 29c1c62887628ba4fb402f31630a1162, type: 2}
+  - {fileID: 11400000, guid: bcf035fae8150f941a998a374cba9bde, type: 2}
+  _currentCommand: 7
+  maxIdOfCommand: 6

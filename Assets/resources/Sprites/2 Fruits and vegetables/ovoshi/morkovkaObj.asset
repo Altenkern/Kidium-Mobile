@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: morkovkaObj
+  m_EditorClassIdentifier: 
+  _fruktColor:
+  - {fileID: 11400000, guid: 60b15ca2478284e4dbfb2260295e2a0a, type: 2}
+  _sprites:
+  - {fileID: 3697497749773314217, guid: d2e4e64a595112e4a8dc2ec138a13815, type: 3}
+  _isFemineRod: 1
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: da1fa6f95ed62664eb1c75397c0243d8, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: 21f396a647631c74ca0f382d66218390, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: 087821c35206d2e46ab7ff9ff64a6ec3, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: d2039c1029921884aa30819f4134b0f6, type: 3}
+  _partAudio: {fileID: 0}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: "\u041C\u043E\u0440\u043A\u043E\u0432\u043A\u0430"
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: 0}
+  _partSprite: {fileID: 0}
+  _colorSprite: {fileID: 21300000, guid: 17fd40f95a6373a43913d6691051972c, type: 3}

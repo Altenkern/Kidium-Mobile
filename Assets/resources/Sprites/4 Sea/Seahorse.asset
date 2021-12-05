@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Seahorse
+  m_EditorClassIdentifier: 
+  _fruktColor: []
+  _sprites:
+  - {fileID: -3162728718486654463, guid: 58aae3d3746981544b0579cd9ba05c81, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: acd093b9417aa334e8574299cc2e7ff8, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: acf1dc1c807098447af79c5e277dad2b, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: 123ffac4005039147b178c69ac00ccf5, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: c571775efa87ec34b9bc9c69b2d63edc, type: 3}
+  _partAudio: {fileID: 0}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: seahorse
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: -3494050873689803405, guid: 69f906fe805bdee42a0858a1f329a0e3, type: 3}
+  _partSprite: {fileID: -287228614932619890, guid: f9ec1d05559980e4192976402d2c674d, type: 3}
+  _colorSprite: {fileID: 0}

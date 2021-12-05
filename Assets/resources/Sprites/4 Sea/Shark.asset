@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Shark
+  m_EditorClassIdentifier: 
+  _fruktColor: []
+  _sprites:
+  - {fileID: -8928094957901788696, guid: 9f44a0859cef8604eb0bf7d9ccca73ce, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: 30564f4276289274aa5f04d7b12dd7ac, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: 201b003d1989f924b80f72cab5c2e93d, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: 60cd34d1933153d4f89de5cd399c975a, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: 181fbe0fb6245c543ace5ac5cbcf178a, type: 3}
+  _partAudio: {fileID: 8300000, guid: e61e0fa3a513ce849891bcccdf8befe5, type: 3}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: Shark
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: 2630017700723050701, guid: 7c97cc85833d070419e4c3d2f684b691, type: 3}
+  _partSprite: {fileID: 2581838519654711542, guid: 5121a47a3ab96a24a9702c33c06b756a, type: 3}
+  _colorSprite: {fileID: 0}

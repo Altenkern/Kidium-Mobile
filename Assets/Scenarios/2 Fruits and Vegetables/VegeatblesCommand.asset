@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0291c9ba69584844ae56c4b8c1af9d1, type: 3}
+  m_Name: VegeatblesCommand
+  m_EditorClassIdentifier: 
+  idOfExecution: 1
+  _doKeepObjectsEveryRound: 1
+  vegetables:
+  - {fileID: 11400000, guid: 1d18c3d1934e77d418f71160b7ced70a, type: 2}
+  - {fileID: 11400000, guid: 6a8e0b063cdba6542b6234896e8809fd, type: 2}
+  - {fileID: 11400000, guid: f490a9a114a1a5d48b35378a297fcd5d, type: 2}
+  - {fileID: 11400000, guid: cf93249d38ff87d4898634dd7489d84f, type: 2}
+  - {fileID: 11400000, guid: 9719a0f0739183b4491322ac77d66943, type: 2}
+  - {fileID: 11400000, guid: bd6d130116d51614291c724ee60ee0bd, type: 2}
+  - {fileID: 11400000, guid: a729bbd68889fe04488db5f0476ac177, type: 2}
+  - {fileID: 11400000, guid: f53e897723589304bb71c97edb12baea, type: 2}
+  llBut: {fileID: 0}
+  lBut: {fileID: 0}
+  midBut: {fileID: 0}
+  rBut: {fileID: 0}
+  rrBut: {fileID: 0}
+  AFKphrases:
+  - {fileID: 8300000, guid: b94138ceee9fb834981dd67d8384e64e, type: 3}
+  - {fileID: 8300000, guid: fbc82004740f5e946889fc780c95254b, type: 3}
+  - {fileID: 8300000, guid: 0a3c8555c86b1d8479ce5273e6563e39, type: 3}
+  - {fileID: 8300000, guid: 9b6098a3ba0dafe4b9826469054f1550, type: 3}
+  rightPhraes:
+  - {fileID: 8300000, guid: dafe31e634d4c104eb97ce35b1107e6f, type: 3}
+  - {fileID: 8300000, guid: 97fc97e36f571d643a04eb797704e7d5, type: 3}
+  - {fileID: 8300000, guid: 97758a5e1a2f9f34e85803f550f468ab, type: 3}
+  - {fileID: 8300000, guid: e344f8979cc5f8b4d97f347ba9272a0f, type: 3}
+  Eto: {fileID: 8300000, guid: b36f84d1dbd1df743b4b49810e4cbe04, type: 3}
+  Naidi: {fileID: 8300000, guid: fe4c618990cb9594bac46fdb0bfc919f, type: 3}
+  pokajiPlzGde: {fileID: 8300000, guid: 7538ede57bd56f8489f8bb46e1fd9aad, type: 3}
+  NajmiPalchikomNa: {fileID: 8300000, guid: 4e96802bdccddbf4ca7ac8c6639563ed, type: 3}
+  ASeychasPokajiGde: {fileID: 8300000, guid: 40e6aa77c04f0394cb6930836dfe1df2, type: 3}

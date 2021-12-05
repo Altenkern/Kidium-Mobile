@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Voron
+  m_EditorClassIdentifier: 
+  _fruktColor: []
+  _sprites:
+  - {fileID: -8614721554856341467, guid: 17a556bc02683394792932542a3640e5, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: d872fb4a80cf69d43899ac6c01669e2e, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: 7cc1b059cda98c94182b3503531b2826, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: 9375e7c1ddb8e2b409fbeb6add6f7c10, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: 64c55268318e32a4d8dcb1efc0f342a7, type: 3}
+  _partAudio: {fileID: 8300000, guid: 17a60d38d6e66a748854d83810ac1eda, type: 3}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: Voron
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: -163641723602106499, guid: f2d3031e6c8581b459fae95506c8439a, type: 3}
+  _partSprite: {fileID: -2994474238334495144, guid: 0775e3a43bd38234aaf685a66f27ff17, type: 3}
+  _colorSprite: {fileID: 0}

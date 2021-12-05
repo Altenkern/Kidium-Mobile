@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Goldi
+  m_EditorClassIdentifier: 
+  _fruktColor: []
+  _sprites:
+  - {fileID: -8974311585771338501, guid: 7b6958dc663f35e459410a1055772b2e, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: 1598578fc081e414b81aef95155bbfc1, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: 08614ba640e929d478e9559227461b2d, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: aa9ec63c5966e414796b7b9fa30c8dfc, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: 6eb4ac6cee0c0244281086b89df32596, type: 3}
+  _partAudio: {fileID: 8300000, guid: 016123a8a9a7221419aee671db4bef6b, type: 3}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: Goldi
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: -6290144379713832446, guid: 7e33c917a2472b541a6a705b7a7d027f, type: 3}
+  _partSprite: {fileID: -2439441439946218994, guid: f91c4072e193e654e9f82ae56c242f7e, type: 3}
+  _colorSprite: {fileID: 0}

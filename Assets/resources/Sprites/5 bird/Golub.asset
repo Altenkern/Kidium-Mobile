@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Golub
+  m_EditorClassIdentifier: 
+  _fruktColor: []
+  _sprites:
+  - {fileID: 6701961567652060336, guid: 4dfdbd32abee08b48af3f2db8155c212, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: 44afcda625cea5144a76aeab1334d54d, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: 83a529e1170805e4f89f77279c925d72, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: 9f9da39fdffca1241bf560f05e3137c4, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: bb26f8133455db24587a833cde411c96, type: 3}
+  _partAudio: {fileID: 0}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: golub
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: -4068479950397188080, guid: 09d5284ca3772df489e472f62b3759c1, type: 3}
+  _partSprite: {fileID: 0}
+  _colorSprite: {fileID: 0}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Crab
+  m_EditorClassIdentifier: 
+  _fruktColor: []
+  _sprites:
+  - {fileID: 7923151080770017977, guid: cb390a911a7bb2742a39069b6fec7633, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: 7bf68d2e5141d1142a0a889d1bfcf71e, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: 6b8e0116c44d83e42938bf264e94fc4e, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: 1b4e57c0fb28d2e408c4e4c351270dfa, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: 013c0e5e44c1127418997187bfb215a9, type: 3}
+  _partAudio: {fileID: 8300000, guid: 3fc2a7c09ababcc4489ddd50facc8cae, type: 3}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: Crab
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: 6463651890748735490, guid: 236944fa05c48314f821f64e27503e16, type: 3}
+  _partSprite: {fileID: 8890027420178329323, guid: 4841b738340c24242b34795a0a992339, type: 3}
+  _colorSprite: {fileID: 0}

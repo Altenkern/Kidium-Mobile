@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Chick
+  m_EditorClassIdentifier: 
+  _fruktColor: []
+  _sprites:
+  - {fileID: 7007556691704234938, guid: 6eebc547cda40a543b1e249bb79f7980, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: 4144623f78aff2a4883cee9990eb1b49, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: ff3fb6b305aa1d14688a139d608b7ef2, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: a523afcd542ad9e4d966d0a47e2f2bbb, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: b8003c1b9e477f7469de88e08b329cb0, type: 3}
+  _partAudio: {fileID: 0}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 8300000, guid: 32deadc2e3565fa4b82a19b2040d6bb7, type: 3}
+  _name: Chick
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: 0}
+  _partSprite: {fileID: 0}
+  _colorSprite: {fileID: 1719626101692122585, guid: 1fc20502ee2a298448f0de4ff5042458, type: 3}

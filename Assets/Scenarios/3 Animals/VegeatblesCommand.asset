@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0291c9ba69584844ae56c4b8c1af9d1, type: 3}
+  m_Name: VegeatblesCommand
+  m_EditorClassIdentifier: 
+  idOfExecution: 1
+  _doKeepObjectsEveryRound: 1
+  vegetables:
+  - {fileID: 11400000, guid: 4763ab15acf336841aa71c27b4c6d472, type: 2}
+  - {fileID: 11400000, guid: 334f4ec79519dab4a9491cc716268e19, type: 2}
+  - {fileID: 11400000, guid: 2cdc5a784c01a9c4e8f818b1095ebec9, type: 2}
+  - {fileID: 11400000, guid: 49bd3a0a829e9fd4d8e7ca5300c26d54, type: 2}
+  - {fileID: 11400000, guid: f44dbd7a732c87045b3f8690d7cd08d1, type: 2}
+  - {fileID: 11400000, guid: 9a5f6ae06f5c67f4d8aa6ce0620e8706, type: 2}
+  - {fileID: 11400000, guid: 3fb8e20154d6f23488fc9e7a13e2907c, type: 2}
+  - {fileID: 11400000, guid: d9cd1c4315b3b614e8d0c2392dc1e5dc, type: 2}
+  - {fileID: 11400000, guid: e103994ea12c4bd48ac14609e6307512, type: 2}
+  - {fileID: 11400000, guid: 5fb108c028b1c584e8e7a3b0741ac889, type: 2}
+  - {fileID: 11400000, guid: 9cf4a84fcd220c4439f5f1f4febfa6c6, type: 2}
+  - {fileID: 11400000, guid: fe3f3742c3f0a5941baa8c8087fa836e, type: 2}
+  - {fileID: 11400000, guid: 23222b83a3b275d48bd082e2bfaaaf62, type: 2}
+  llBut: {fileID: 0}
+  lBut: {fileID: 0}
+  midBut: {fileID: 0}
+  rBut: {fileID: 0}
+  rrBut: {fileID: 0}
+  AFKphrases:
+  - {fileID: 8300000, guid: b94138ceee9fb834981dd67d8384e64e, type: 3}
+  - {fileID: 8300000, guid: fbc82004740f5e946889fc780c95254b, type: 3}
+  - {fileID: 8300000, guid: 0a3c8555c86b1d8479ce5273e6563e39, type: 3}
+  - {fileID: 8300000, guid: 9b6098a3ba0dafe4b9826469054f1550, type: 3}
+  rightPhraes:
+  - {fileID: 8300000, guid: dafe31e634d4c104eb97ce35b1107e6f, type: 3}
+  - {fileID: 8300000, guid: 97fc97e36f571d643a04eb797704e7d5, type: 3}
+  - {fileID: 8300000, guid: 97758a5e1a2f9f34e85803f550f468ab, type: 3}
+  - {fileID: 8300000, guid: e344f8979cc5f8b4d97f347ba9272a0f, type: 3}
+  Eto: {fileID: 8300000, guid: b36f84d1dbd1df743b4b49810e4cbe04, type: 3}
+  Naidi: {fileID: 8300000, guid: fe4c618990cb9594bac46fdb0bfc919f, type: 3}
+  pokajiPlzGde: {fileID: 8300000, guid: 7538ede57bd56f8489f8bb46e1fd9aad, type: 3}
+  NajmiPalchikomNa: {fileID: 8300000, guid: 4e96802bdccddbf4ca7ac8c6639563ed, type: 3}
+  ASeychasPokajiGde: {fileID: 8300000, guid: 40e6aa77c04f0394cb6930836dfe1df2, type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d751c48d1cffe25409889ec238c4e911, type: 3}
+  m_Name: BirdScenario
+  m_EditorClassIdentifier: 
+  _commands:
+  - {fileID: 11400000, guid: a3783186408f34848b6d452371b96373, type: 2}
+  - {fileID: 11400000, guid: 9268b486962856c4da7aac6be4ad9998, type: 2}
+  - {fileID: 11400000, guid: 504dde64c7dd9534b9fd1903342b9a70, type: 2}
+  - {fileID: 11400000, guid: b334b66881499c44a833913471bf041a, type: 2}
+  - {fileID: 11400000, guid: 2549f5deda456ce41b0eeafd1fa20a88, type: 2}
+  - {fileID: 11400000, guid: 27f14c93e2108d542a34c6aabb70e91c, type: 2}
+  - {fileID: 11400000, guid: 9dcc1c3c9464141469cc6f468e33d2aa, type: 2}
+  - {fileID: 11400000, guid: 585ac2514df43ba478d987512041f7e9, type: 2}
+  _currentCommand: 5
+  maxIdOfCommand: 4

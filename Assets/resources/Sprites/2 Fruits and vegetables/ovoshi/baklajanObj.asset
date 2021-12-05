@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: baklajanObj
+  m_EditorClassIdentifier: 
+  _fruktColor:
+  - {fileID: 11400000, guid: 31413b08d3e994143bf1e6ae7d37a02f, type: 2}
+  _sprites:
+  - {fileID: 947548993367481053, guid: 7d3ef28b39d509942ae63dc1c0935be4, type: 3}
+  _isFemineRod: 0
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: 7e359e4623ace644e9e35a9d340e63f2, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: 7e359e4623ace644e9e35a9d340e63f2, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: f72a43e7550629444b7571c300224cf9, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: f72a43e7550629444b7571c300224cf9, type: 3}
+  _partAudio: {fileID: 0}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: "\u0411\u0430\u043A\u043B\u0430\u0436\u0430\u043D"
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: 0}
+  _partSprite: {fileID: 0}
+  _colorSprite: {fileID: 21300000, guid: 0a0251ca8d30d8c4f85338257e91773a, type: 3}

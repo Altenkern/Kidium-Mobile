@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a85002c10ddcd4eb353e20ff56a938, type: 3}
+  m_Name: Sliva
+  m_EditorClassIdentifier: 
+  _fruktColor:
+  - {fileID: 11400000, guid: 31413b08d3e994143bf1e6ae7d37a02f, type: 2}
+  _sprites:
+  - {fileID: 8974328826934981325, guid: 3c7b727b59a0e7045aad42ad75e01164, type: 3}
+  _isFemineRod: 1
+  _fruktType: 0
+  _bonyImenPadezj: {fileID: 8300000, guid: a1e89abea55029f469f28e0391074218, type: 3}
+  _bonyRodPadezj: {fileID: 8300000, guid: d2bae4c59d888dc45a7bd4dd71333d65, type: 3}
+  _archiImenPadezj: {fileID: 8300000, guid: 24199b1df6540ee4eb75384f7edb0e11, type: 3}
+  _archiRodPadezj: {fileID: 8300000, guid: 3b680762d9603694eba80f0c11697acb, type: 3}
+  _partAudio: {fileID: 0}
+  _shadowAudio: {fileID: 0}
+  _describeAudio: {fileID: 0}
+  _colorAudio: {fileID: 0}
+  _name: "\u0421\u043B\u0438\u0432\u0430"
+  _color: {r: 0, g: 0, b: 0, a: 0}
+  _shadow: {fileID: 0}
+  _partSprite: {fileID: 0}
+  _colorSprite: {fileID: 21300000, guid: 0a0251ca8d30d8c4f85338257e91773a, type: 3}
